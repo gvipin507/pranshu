@@ -1,2 +1,3 @@
 # pranshu
-Thai i my fast git repository
+Thais my fast git repository
+Author - pranshu gupta
